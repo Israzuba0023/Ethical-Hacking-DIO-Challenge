@@ -144,7 +144,7 @@ Como Engenheiro Informático, as recomendações para evitar este tipo de explor
 
 **Israel Cassute (Zuba)**
 
-**Engenharia Informática e Comunicações**
+Engenharia Informática e Comunicações
 
 **` DIO Campus Expert | Especialista em DevSecOps, MLOps & NetOps | DPO `**
 
