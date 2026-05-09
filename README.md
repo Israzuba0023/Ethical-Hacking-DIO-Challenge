@@ -23,7 +23,7 @@
 
 
 
-# 🛡️ Lab de Pentest: Exploração de Força Bruta com Medusa
+
 
 Este repositório contém a documentação completa de um laboratório de testes de intrusão (Pentest) realizado num ambiente isolado. O objetivo foi simular um ataque de força bruta (Brute Force) contra o protocolo FTP, utilizando ferramentas padrão da indústria para validar vulnerabilidades em credenciais de autenticação.
 
@@ -142,7 +142,10 @@ Como Engenheiro Informático, as recomendações para evitar este tipo de explor
 
 # Autor
 
-Israel Cassute (Zuba)
-Engenharia Informática e Comunicações
+**Israel Cassute (Zuba)**
 
-DIO Campus Expert | Especialista em DevSecOps, MLOps & NetOps | DPO
+**Engenharia Informática e Comunicações**
+
+**` DIO Campus Expert | Especialista em DevSecOps, MLOps & NetOps | DPO `**
+
+
